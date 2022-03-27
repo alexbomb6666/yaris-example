@@ -3,7 +3,7 @@
     Also, this only supports **username and password whitelists**, but i will inplement this soon anyway (this means you cant add, remove, whitelist and blacklist people in hwid or ip whitelists)
 # Preparing
 Firstly, you need to install the file with class you need to use
-1. Download the file in github (yaris.py)
+1. Download the [file in github](https://github.com/alexbomb6666/yaris-example) (yaris.py)
 2. Place it in your project directory
 3. Add this code to your main .py file: (you need )
 ```python
